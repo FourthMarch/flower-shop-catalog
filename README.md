@@ -12,15 +12,15 @@ Brand contoh yang dipakai: **Lucky Flowershop** (dapat diganti di `src/data.ts`)
 
 | Beranda | Katalog |
 | :---: | :---: |
-| ![Beranda](docs/screenshots/beranda.png) | ![Katalog](docs/screenshots/katalog.png) |
+| ![Beranda](docs/screenshots/Screenshot(1).png) | ![Katalog](docs/screenshots/Screenshot(2).png) |
 
 | Detail Produk | Tentang Kami |
 | :---: | :---: |
-| ![Detail Produk](docs/screenshots/detail-produk.png) | ![Tentang Kami](docs/screenshots/tentang-kami.png) |
+| ![Detail Produk](docs/screenshots/Screenshot(3).png) | ![Tentang Kami](docs/screenshots/Screenshot(4).png) |
 
 | Kontak | Tampilan Mobile |
 | :---: | :---: |
-| ![Kontak](docs/screenshots/kontak.png) | ![Mobile](docs/screenshots/mobile.png) |
+| ![Kontak](docs/screenshots/Screenshot(5).png) | ![Mobile](docs/screenshots/Screenshot(6).png) |
 
 ## Fitur
 
@@ -83,6 +83,7 @@ flower-shop-catalog/
 
 ## Rencana pengembangan
 
+- [ ] Framework Laravel
 - [ ] Menghubungkan data produk ke backend atau CMS
 - [ ] Halaman admin untuk mengelola produk
 - [ ] Keranjang dan pembayaran online
